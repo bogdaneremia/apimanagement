@@ -1,0 +1,27 @@
+{
+    "workshop": {
+        "title": "API Management",
+        "description": "API Management Labs",
+        "theme": "default",
+        "labs": [
+			{
+                "number": "01",
+                "filename": "apiary.md",
+                "title": "Apiary",
+                "description": "API First and API Platform managed microservices"
+            },
+			{
+                "number": "01",
+                "filename": "oic.md",
+                "title": "Oracle Integration Cloud",
+                "description": "Integration of enterprise services and evolution of SOA"
+            },
+			{
+                "number": "01",
+                "filename": "apip.md",
+                "title": "API Platform",
+                "description": "Layered security, best practices behind firewall, API security"
+            }
+        ]
+    }
+}

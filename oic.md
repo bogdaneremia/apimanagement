@@ -500,7 +500,7 @@ This directs to a very handy page, the Endpoint Description.
 	}
     ```
 
-    * **Modify** the orgName to: Oracle Organization **NN II** where **II** represent the initials of your name
+    * **Modify** the orgName to: Oracle Organization **NN** where **NN** represents the unique number given by your trainers
 
 -	Click **Send**
 ![](images/oic/img0700.png)
